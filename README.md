@@ -1,7 +1,7 @@
 # Vision_Intelligence_and_Machine_Learning
 Discover computer vision programming applications of image analysis, one of the most innovative fields of artificial intelligence.
 
-![Demo][https://media.giphy.com/media/l4Epcsi3QwdQ2zyrC/giphy.gif]
+![Demo](https://media.giphy.com/media/l4Epcsi3QwdQ2zyrC/giphy.gif)
 
 Color Selection:
 ----
